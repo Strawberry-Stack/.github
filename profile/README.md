@@ -1,4 +1,4 @@
-# Srawberry Stack
+# Strawberry Stack
 
 ### Independent Web Development Team
 
@@ -11,8 +11,8 @@ We are a small development team focused on building reliable, scalable, and mode
 
 ### 👥 Team
 
-**Backend Developer** — Srawberry Stack
-**Frontend Developer** — Srawberry Stack
+**Backend Developer** — Strawberry Stack
+**Frontend Developer** — Strawberry Stack
 
 We work together across the full development cycle — from backend systems and architecture to modern user interfaces.
 
